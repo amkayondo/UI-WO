@@ -114,3 +114,9 @@ footer{
     min-height: 70px;
     border-top: #000000 3px solid;
 }
+
+#links{
+    margin-top: 0px;
+    margin-right: 20px;
+    margin-left: 800px;
+}
