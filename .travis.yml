@@ -6,4 +6,4 @@ python:
 
 cache: pip
 install: "pip install -r requirements.txt" 
-script: python API/test_api.py
+script: python -m unittest API/test_api.py
